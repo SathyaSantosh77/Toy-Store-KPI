@@ -57,7 +57,7 @@ The dataset consists of multiple related tables:
 
 ## 📸 Dashboard Preview
 
-![Dashboard Screenshot](Toy Store Sales Dashboard - Power BI.png)
+![Dashboard Screenshot][(Toy Store Sales Dashboard - Power BI.png)](https://github.com/SathyaSantosh77/Toy-Store-KPI/blob/main/Toy%20Store%20Sales%20Dashboard%20-%20Power%20BI.png)
 
 ---
 
