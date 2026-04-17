@@ -69,24 +69,3 @@ The dataset consists of multiple related tables:
 * Store location plays a significant role in performance variation
 
 ---
-
-## 📂 Repository Structure
-
-* `Toy Store.pbix` → Power BI dashboard
-* `*.csv` → Dataset files
-* `README.md` → Project documentation
-
----
-
-## 🚀 Future Improvements
-
-* Add **profit margin (%)** metric
-* Implement forecasting for trend prediction
-* Enhance dashboard UI/UX
-* Add drill-down analysis for deeper insights
-
----
-
-## 📢 Conclusion
-
-This project demonstrates the ability to transform raw retail data into meaningful insights using Power BI, supporting business decision-making through interactive visualization.
